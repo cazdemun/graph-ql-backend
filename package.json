@@ -1,0 +1,24 @@
+{
+  "name": "graph-ql-backend",
+  "version": "1.0.0",
+  "description": "GraphQL on Expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cazdemun/graph-ql-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cazdemun/graph-ql-backend/issues"
+  },
+  "homepage": "https://github.com/cazdemun/graph-ql-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.8"
+  }
+}
